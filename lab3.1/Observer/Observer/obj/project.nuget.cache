@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KAPWXhrpM9EfTzM6bdhlI3nh06Ij+ZVfbDQgoHPxH9D3+ovXGm9k3RWWpsz4Wszm3dRiwNV5Cu0adE3Hh9uemg==",
+  "success": true,
+  "projectFilePath": "F:\\3.2\\TMPS\\Observer\\Observer\\Observer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

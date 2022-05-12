@@ -1,0 +1,32 @@
+C:\Users\La Flame\source\repos\Observer\Observer\bin\Debug\net5.0\Observer.exe
+C:\Users\La Flame\source\repos\Observer\Observer\bin\Debug\net5.0\Observer.deps.json
+C:\Users\La Flame\source\repos\Observer\Observer\bin\Debug\net5.0\Observer.runtimeconfig.json
+C:\Users\La Flame\source\repos\Observer\Observer\bin\Debug\net5.0\Observer.runtimeconfig.dev.json
+C:\Users\La Flame\source\repos\Observer\Observer\bin\Debug\net5.0\Observer.dll
+C:\Users\La Flame\source\repos\Observer\Observer\bin\Debug\net5.0\ref\Observer.dll
+C:\Users\La Flame\source\repos\Observer\Observer\bin\Debug\net5.0\Observer.pdb
+C:\Users\La Flame\source\repos\Observer\Observer\obj\Debug\net5.0\Observer.csproj.AssemblyReference.cache
+C:\Users\La Flame\source\repos\Observer\Observer\obj\Debug\net5.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\La Flame\source\repos\Observer\Observer\obj\Debug\net5.0\Observer.AssemblyInfoInputs.cache
+C:\Users\La Flame\source\repos\Observer\Observer\obj\Debug\net5.0\Observer.AssemblyInfo.cs
+C:\Users\La Flame\source\repos\Observer\Observer\obj\Debug\net5.0\Observer.csproj.CoreCompileInputs.cache
+C:\Users\La Flame\source\repos\Observer\Observer\obj\Debug\net5.0\Observer.dll
+C:\Users\La Flame\source\repos\Observer\Observer\obj\Debug\net5.0\ref\Observer.dll
+C:\Users\La Flame\source\repos\Observer\Observer\obj\Debug\net5.0\Observer.pdb
+C:\Users\La Flame\source\repos\Observer\Observer\obj\Debug\net5.0\Observer.genruntimeconfig.cache
+F:\3.2\TMPS\Observer\Observer\bin\Debug\net5.0\Observer.exe
+F:\3.2\TMPS\Observer\Observer\bin\Debug\net5.0\Observer.deps.json
+F:\3.2\TMPS\Observer\Observer\bin\Debug\net5.0\Observer.runtimeconfig.json
+F:\3.2\TMPS\Observer\Observer\bin\Debug\net5.0\Observer.runtimeconfig.dev.json
+F:\3.2\TMPS\Observer\Observer\bin\Debug\net5.0\Observer.dll
+F:\3.2\TMPS\Observer\Observer\bin\Debug\net5.0\ref\Observer.dll
+F:\3.2\TMPS\Observer\Observer\bin\Debug\net5.0\Observer.pdb
+F:\3.2\TMPS\Observer\Observer\obj\Debug\net5.0\Observer.csproj.AssemblyReference.cache
+F:\3.2\TMPS\Observer\Observer\obj\Debug\net5.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+F:\3.2\TMPS\Observer\Observer\obj\Debug\net5.0\Observer.AssemblyInfoInputs.cache
+F:\3.2\TMPS\Observer\Observer\obj\Debug\net5.0\Observer.AssemblyInfo.cs
+F:\3.2\TMPS\Observer\Observer\obj\Debug\net5.0\Observer.csproj.CoreCompileInputs.cache
+F:\3.2\TMPS\Observer\Observer\obj\Debug\net5.0\Observer.dll
+F:\3.2\TMPS\Observer\Observer\obj\Debug\net5.0\ref\Observer.dll
+F:\3.2\TMPS\Observer\Observer\obj\Debug\net5.0\Observer.pdb
+F:\3.2\TMPS\Observer\Observer\obj\Debug\net5.0\Observer.genruntimeconfig.cache

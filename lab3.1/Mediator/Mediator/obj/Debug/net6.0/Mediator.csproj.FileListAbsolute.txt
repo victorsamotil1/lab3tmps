@@ -1,0 +1,15 @@
+F:\3.2\TMPS\Mediator\Mediator\bin\Debug\net6.0\Mediator.exe
+F:\3.2\TMPS\Mediator\Mediator\bin\Debug\net6.0\Mediator.deps.json
+F:\3.2\TMPS\Mediator\Mediator\bin\Debug\net6.0\Mediator.runtimeconfig.json
+F:\3.2\TMPS\Mediator\Mediator\bin\Debug\net6.0\Mediator.dll
+F:\3.2\TMPS\Mediator\Mediator\bin\Debug\net6.0\ref\Mediator.dll
+F:\3.2\TMPS\Mediator\Mediator\bin\Debug\net6.0\Mediator.pdb
+F:\3.2\TMPS\Mediator\Mediator\obj\Debug\net6.0\Mediator.csproj.AssemblyReference.cache
+F:\3.2\TMPS\Mediator\Mediator\obj\Debug\net6.0\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+F:\3.2\TMPS\Mediator\Mediator\obj\Debug\net6.0\Mediator.AssemblyInfoInputs.cache
+F:\3.2\TMPS\Mediator\Mediator\obj\Debug\net6.0\Mediator.AssemblyInfo.cs
+F:\3.2\TMPS\Mediator\Mediator\obj\Debug\net6.0\Mediator.csproj.CoreCompileInputs.cache
+F:\3.2\TMPS\Mediator\Mediator\obj\Debug\net6.0\Mediator.dll
+F:\3.2\TMPS\Mediator\Mediator\obj\Debug\net6.0\ref\Mediator.dll
+F:\3.2\TMPS\Mediator\Mediator\obj\Debug\net6.0\Mediator.pdb
+F:\3.2\TMPS\Mediator\Mediator\obj\Debug\net6.0\Mediator.genruntimeconfig.cache
